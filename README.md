@@ -2,13 +2,16 @@
 
 # Towards low-cost lead screening with transmission XRF 
 
-This repository contains code to reproduce the results in our Arxiv paper:
+_Update, July 30 2026:_
+
+A peer-reviewed version of this work has now been published. Please cite this one if you build on our work:
 <blockquote>
       
-[C. Gaßner, J. Reisewitz, J. E. Forsyth, K. Shaker, "Towards low-cost lead screening with transmission XRF" arXiv:2511.09110 (2025)](https://doi.org/10.48550/arXiv.2511.09110) 
+[C. Gaßner, J. Reisewitz, J. E. Forsyth, K. Shaker, "Towards low-cost lead screening with transmission XRF" Commun Earth Environ 7, 626 (2026)](https://doi.org/10.1038/s43247-026-03875-4) 
 </blockquote>
 
-_Page under construction, to be updated with notebooks for all figures_ 
+
+This repository contains code to reproduce the results in our [Arxiv paper](https://doi.org/10.48550/arXiv.2511.09110)
 
 ## <code>Figure 1.ipynb</code> [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OpenXRF/lead-screening/blob/main/Figure1.ipynb)
 
@@ -34,4 +37,4 @@ _Page under construction, to be updated with notebooks for all figures_
 | Figure 4b: Required measurement time as a function of detector specifications |
 | :--- |
 | <img width="900" height="350" alt="Fig4" src="https://github.com/user-attachments/assets/2bc46ac6-2606-408d-887c-fdff3fdc5c98" />
-   |
+|
